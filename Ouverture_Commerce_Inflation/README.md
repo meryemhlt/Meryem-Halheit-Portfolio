@@ -20,3 +20,5 @@ et le **taux d’inflation**, à partir des données de la Banque mondiale (WDI)
 
 ![Graphique](open_inflation_plot.png)
 
+Le test indiquait que les effets fixes étaient plus appropriés, ce qui confirme qu’il existe des spécificités structurelles propres à chaque pays.
+Cela renforce la robustesse du lien entre ouverture commerciale et inflation
