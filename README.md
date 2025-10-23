@@ -10,6 +10,7 @@ Ce GitHub rassemble mes principaux projets en économétrie appliquée et data a
 Mon objectif : combiner la rigueur économique et la puissance de la donnée pour produire des analyses exploitables et pertinentes.  
 
 Contact : [meryem.halheit@etu.unistra.fr](mailto:meryem.halheit@etu.unistra.fr)  
+06 51 48 55 21
 Strasbourg, France  
 
 ---
