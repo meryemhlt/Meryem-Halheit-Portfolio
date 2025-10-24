@@ -1,37 +1,36 @@
-## Portfolio – Meryem Halheit
-Master Statistique & Économétrie
-Analyse de données • Économétrie appliquée • Machine Learning  
+# 🎓 Portfolio – Meryem Halheit  
+**Master Statistique & Économétrie – Université de Strasbourg**
 
 ---
 
 ## À propos
-Je m'appelle Meryem Halheit, étudiante en Master Statistique et Économétrie à la faculté de sciences et de gestion de Strasbourg.  
-Ce GitHub rassemble mes principaux projets en économétrie appliquée et data analysis, réalisés dans le cadre de mon cursus scolaire.  
-Mon objectif : combiner la rigueur économique et la puissance de la donnée pour produire des analyses exploitables et pertinentes.  
+Je suis étudiante en Master 2 Statistique & Économétrie, passionnée par l’analyse de données, la modélisation économique et la data science appliquée.  
+Ce portfolio regroupe mes principaux projets réalisés en R et Python, illustrant mes compétences en économétrie, Machine Learning et visualisation de données.
 
-Contact : [meryem.halheit@etu.unistra.fr](mailto:meryem.halheit@etu.unistra.fr)  
-06 51 48 55 21   
-
-Strasbourg, France  
+📍 Strasbourg, France  
+📧 meryem.halheit@etu.unistra.fr  
+🔗 [LinkedIn](https://www.linkedin.com/in/Meryem/Halheit) · [GitHub](https://github.com/meryemhlt)
 
 ---
 
 ## Projets
 
-| Projet | Langage | Description |
-|--------|----------|-------------|
-| [Assistant vocal historique](./Assistant_Vocal_Historique/) | Python / SQL | Assistant vocal relié à ChatGPT et Wikipédia pour répondre à des questions historiques. |
-| [Économétrie appliquée – Logit consommation](./Econometrie_Appliquee_Logit/) | Python | Modélisation du comportement des ménages à partir de données simulées (Logit). |
-| [Économétrie financière – GARCH & VaR](./Econometrie_Financiere_GARCH/) | R / Python | Estimation de la volatilité et calcul de la Value-at-Risk sur indices boursiers. |
-| [Ouverture commerciale et inflation](./Ouverture_Commerce_Inflation/) | R | Étude économétrique sur données internationales (1990–2020). |
-| [Croissance du PIB au Japon](./PIB_Japon_ARIMA/) | R / SAS | Analyse de séries temporelles et modélisation ARIMA. |
+| # | Projet | Langage | Description |
+|---|---------|----------|-------------|
+| 1 | [Assistant Vocal Historique](./Assistant_Vocal/) | Python | Assistant vocal IA combinant reconnaissance vocale, recherche Wikipédia et synthèse vocale. |
+| 2 | [Économétrie appliquée – Logit consommation](./Econometrie_Appliquee_Logit/) | Python | Modélisation du comportement de consommation des ménages (Logit binaire). |
+| 3 | [Économétrie financière – GARCH & VaR](./Econometrie_Financiere_GARCH/) | R / Python | Estimation de la volatilité et mesure du risque extrême (Value-at-Risk). |
+| 4 | [Ouverture commerciale & inflation](./Ouverture_Commerce_Inflation/) | R | Analyse en panel des pays de l’OCDE (1990–2020). |
+| 5 | [Croissance du PIB au Japon](./Croissance_PIB_Japon/) | R | Régression et modélisation ARIMA des déterminants de la croissance japonaise. |
 
 ---
 
-## Organisation
-Chaque dossier contient :
-- Le notebook (.ipynb ou .R)
-- Les graphes et figures
-- Un mini _README_ expliquant les données, la méthodologie et les résultats.
+## Compétences techniques
+**Langages** : R, Python, SAS, SQL  
+**Outils** : GitHub, RStudio, VSCode, Overleaf  
+**Packages principaux** : `ggplot2`, `plm`, `statsmodels`, `arch`, `pandas`, `matplotlib`
 
 ---
+
+## Objectif
+Mettre mes compétences en économétrie et data science au service de projets appliqués en finance, économie ou santé publique.
