@@ -22,3 +22,5 @@ et calculer la **Value-at-Risk (VaR)** pour évaluer le risque extrême.
 
 **Value-at-Risk (1 %) :**
 ![VaR](var_plot.png)
+
+![Volatilité conditionnelle](garch_vol.png)
