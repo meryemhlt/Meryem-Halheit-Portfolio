@@ -19,8 +19,9 @@ et calculer la **Value-at-Risk (VaR)** pour évaluer le risque extrême.
 
 **Volatilité conditionnelle estimée :**
 ![Volatilité](garch_vol.png)
+Les pics de volatilité observés correspondent aux crises de marché (COVID-19, tensions géopolitiques),
+validant la pertinence du modèle GARCH pour la mesure du risque.
 
 **Value-at-Risk (1 %) :**
 ![VaR](var_plot.png)
 
-![Volatilité conditionnelle](garch_vol.png)
