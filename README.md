@@ -9,7 +9,7 @@ Ce portfolio regroupe mes principaux projets réalisés en R et Python, illustra
 
 📍 Strasbourg, France  
 📧 meryem.halheit@etu.unistra.fr  
-🔗 [LinkedIn](https://www.linkedin.com/in/Meryem/Halheit) · [GitHub](https://github.com/meryemhlt)
+🔗 [LinkedIn](https://linkedin.com/in/meryem-halheit) · [GitHub](https://github.com/meryemhlt)
 📄 [Télécharger mon CV](./CV_Meryem_Halheit.pdf)
 
 
